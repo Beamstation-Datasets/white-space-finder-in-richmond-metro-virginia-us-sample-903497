@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 89 records |
 | Free sample size | 8 records (8.99%) |
-| Last export | 2026-04-07T23:38:50.313663+00:00 |
+| Last export | 2026-04-15T05:23:26.970496+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-richmond-metro-virginia-us-sample-903497/releases/download/sample-latest/beamstation_903497_food_and_drink-us-richmondva_SAMPLE_DIST.csv) |
 
 ## What is in this sample
