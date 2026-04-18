@@ -6,7 +6,7 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Richmond, VA that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Richmond (Metro), Virginia, US",
-  "export_job_id": "bad20b12-194e-4a89-bb0e-c571c9a13465",
+  "export_job_id": "a9d05f54-ac5c-4413-a064-2d14ebc6a533",
   "github_org": "Beamstation-Datasets",
   "id_short": 903497,
   "location_name": "Richmond, VA",
@@ -18,5 +18,5 @@
   "sample_sha256": "e68ddb4a5e52614e54c47c12fd9c47c869a596cebf8fb30d96f129736401b26d",
   "sample_size_bytes": 47522,
   "total_records": 89,
-  "updated_at": "2026-04-07T23:38:50.313663+00:00"
+  "updated_at": "2026-04-15T05:23:26.970496+00:00"
 }
