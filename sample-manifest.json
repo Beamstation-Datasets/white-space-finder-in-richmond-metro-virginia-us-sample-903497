@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a9d05f54-ac5c-4413-a064-2d14ebc6a533",
+  "export_job_id": "48bbea4d-2521-4469-b0e4-8e4fb3df40b6",
   "id_short": 903497,
-  "published_at": "2026-04-18T20:01:32Z",
+  "published_at": "2026-04-23T07:28:59Z",
   "repo_name": "white-space-finder-in-richmond-metro-virginia-us-sample-903497",
   "sample_asset_name": "beamstation_903497_food_and_drink-us-richmondva_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/903497/beamstation_903497_food_and_drink-us-richmondva_SAMPLE_DIST.csv",
-  "sample_records": 8,
-  "sample_sha256": "e68ddb4a5e52614e54c47c12fd9c47c869a596cebf8fb30d96f129736401b26d",
-  "sample_size_bytes": 47522,
-  "total_records": 89
+  "sample_records": 2,
+  "sample_sha256": "2775956a3251c812997c26189d202e5e0ffb85ea8dbf7dd79e7ebd45ec8d2522",
+  "sample_size_bytes": 24463,
+  "total_records": 29
 }
